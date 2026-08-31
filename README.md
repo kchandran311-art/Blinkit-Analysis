@@ -26,3 +26,8 @@ A clear consumer preference for low-fat products, reflecting health-conscious bu
 Fruits, vegetables, and snack foods emerge as the top-performing categories
 Medium-sized outlets in Tier 3 locations demonstrate the highest profitability
 Supermarkets drive higher sales volumes, while grocery stores maintain better item visibility
+
+
+## Dashboard Preview
+
+![Blinkit Dashboard](Blinkit_Dashboard_Screenshot.png)
